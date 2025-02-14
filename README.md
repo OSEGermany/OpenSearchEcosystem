@@ -1,4 +1,5 @@
-# Open Search Ecosystem
+# Open Search Ecosystem 
+> **towards Linked Data powered (open source) hardware search, high-quality engineering ontologies and tools for developers**
 
 [![In cooperation with Open Source Ecology Germany](
     https://raw.githubusercontent.com/osegermany/tiny-files/master/res/media/img/badge-oseg.svg)](
@@ -6,6 +7,8 @@
 
 Public resources related to the [Open Know-How (OKH)][OKH] Standard
 regarding a future Open Search Ecosystem for hardware ([NGI Search Project 2025]). 
+
+For a detailed list of resources we are building this ecosystem on check out the [Repositories.md](Repositories.md) documentation. If you find something missing or want to suggest modules for this ecosystem to grow better please file an [Issue](https://github.com/OSEGermany/OpenSearchEcosystem/issues/new) or send your suggestions via [Merge Request](https://github.com/OSEGermany/OpenSearchEcosystem/compare).
 
 Other resources will follow on [Codeberg.org/OSEGermany](https://codeberg.org/OSEGermany).
 
