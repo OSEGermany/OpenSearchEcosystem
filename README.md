@@ -13,7 +13,7 @@ For a detailed list of resources we are building this ecosystem on check out the
 
 
 ![](res/media/img/ngi-search-ecosystem.svg)
->*The modules in red `#8e1d11` are specifically linked to the [NGI Search Project 2025]. Though the Ecosystem is growing beyond those elements already.*
+>*The modules in <span style="color:#8e1d11">red (color: #8e1d11)</span> are specifically linked to the [NGI Search Project 2025]. Though the Ecosystem is growing beyond those elements already.*
 
 **For a detailed graphical outline of all the modules and repositories in place, please check out the [dataflow-principle.svg](res/media/img/dataflow-principle.svg)!**
 
