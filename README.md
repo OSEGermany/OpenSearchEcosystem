@@ -1,6 +1,9 @@
 # Open Search Ecosystem
 
-Public resources related to the [Open Know How (OKH)](https://github.com/iop-alliance/OpenKnowHow) Standard regarding a future Open Search Ecosystem for Hardware (NGI Search Project 2025). 
+Public resources related to the [Open Know-How (OKH)][OKH] Standard
+regarding a future Open Search Ecosystem for hardware ([NGI Search Project 2025]). 
 
-Other Resources will follow on [Codeberg.org](https://codeberg.org/OSEGermany)
+Other resources will follow on [Codeberg.org/OSEGermany](https://codeberg.org/OSEGermany).
 
+[OKH]: https://github.com/iop-alliance/OpenKnowHow
+[NGI Search Project 2025]: https://www.ngisearch.eu/view/Events/OC5Searchers#HOSE
