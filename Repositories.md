@@ -46,7 +46,19 @@ linked data satisfies the ontology.
 
 An HTTP service that provides the user with up-to-date ontologies in various formats.
 
+### https://codeberg.org/elevont/eyeball
+
+An OWL/RDF linter.
+
+### https://github.com/OSEGermany/okh-scraper/
+
+A stand-alone service that scrapes(/crawls) Open Source Hardware (OSH) projects from different platforms and other hosting technologies.
+
 ## Contributing Repositories
+
+### https://github.com/oeg-upm/OOPS
+
+A linter for ontologies that makes a distinction between various pitfalls in ontology design.
 
 ### https://github.com/perma-id/w3id.org
 
@@ -67,6 +79,12 @@ Contains Technology-specific Documentation Criteria (TsDC) according to DIN SPEC
 ### https://gitlab.com/OSEGermany/oh-tsdc-tools
 
 Tools to convert different formats of Technology-specific Documentation Criteria (TsDC) into each other.
+
+### https://github.com/elevont/jena.git
+
+A Java framework for writing Semantic Web applications.  Note that this is our
+own distribution of it that enables RDF 1.0.  It is used in the Eyeball OWL/RDF
+linter.
 
 ## Reference Repositories
 
