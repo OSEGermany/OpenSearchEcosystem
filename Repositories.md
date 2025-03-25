@@ -125,6 +125,10 @@ v1 standard.
 Our small adjustments to Apache Jena (RDF Triple-Store & associated libraries).
 This is required for Eyeball.
 
+### https://github.com/elevont/rdf.sh
+
+Very handy CLI tools for anyone dealing with RDF on a daily basis.
+
 [Project repositories]: #project-repositories
 [contributing repositories]: #contributing-repositories
 [reference repositories]: #reference-repositories
