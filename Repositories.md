@@ -120,6 +120,11 @@ A library for conversion between different RDF serialization formats, using exte
 A prototype federated search engine for OKH projects.  It is based on the OKH
 v1 standard.
 
+### https://github.com/elevont/jena
+
+Our small adjustments to Apache Jena (RDF Triple-Store & associated libraries).
+This is required for Eyeball.
+
 [Project repositories]: #project-repositories
 [contributing repositories]: #contributing-repositories
 [reference repositories]: #reference-repositories
