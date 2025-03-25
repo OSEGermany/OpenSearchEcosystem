@@ -40,26 +40,28 @@ It is tweaked towards scraped data, at the moment.
 
 ### https://github.com/iop-alliance/OKH-krawler/
 
-This repository is forked from the OPEN-NEXT project and provides a crawler
-that searches for OKH hardware projects on GitHub, Thingiverse, and OSHWA.
+This provides a scraper that collects OSH projects
+from various hosting technologies/platforms,
+like Thingiverse, OSHWA and Appropedia.
 
 ### https://github.com/OPEN-NEXT/LOSH-OKH-tool
 
-Validate and convert OKH metadata.  This repository is about to be moved to the
-iop-alliance GitHub organization.
+Validate and convert OKH metadata.
 
 ### https://codeberg.org/elevont/owl2shacl/
 
 Convert (simple) ontologies to SHACL shapes in order to validate to what extent
-linked data satisfies the ontology.
+linked data adheres to the ontology.
 
 ### https://codeberg.org/elevont/ontprox/
 
-An HTTP service that provides the user with up-to-date ontologies in various formats.
+An HTTP service that acts as a proxy for ontologies,
+converting them on-the-fly into the requested RDF serialization format or/and HTML.
 
 ### https://codeberg.org/elevont/eyeball
 
 An RDF linter.
+Revived after a period of 10+ years of inactivity and code-rot.
 
 ### https://github.com/OSEGermany/okh-scraper/
 
@@ -69,7 +71,7 @@ A stand-alone service that scrapes(/crawls) Open Source Hardware (OSH) projects 
 
 ### https://github.com/oeg-upm/OOPS
 
-A linter for ontologies that makes a distinction between various pitfalls in ontology design.
+A linter for RDF/OWL ontologies that makes a distinction between various pitfalls in ontology design.
 
 ### https://github.com/perma-id/w3id.org
 
