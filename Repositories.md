@@ -27,6 +27,11 @@ Open Know How / Library of Open Source Hardware (OKH-LOSH) work.  It contains a
 specification of the Open Know How standard in Linked Open data form.  Note
 that it overrides the first version that was not using linked open data.
 
+### https://codeberg.org/elevont/open-dataset/
+
+A newly created ontology for annotating data-sets with relevant data.
+It is tweaked towards scraped data, at the moment.
+
 ### https://github.com/iop-alliance/OKH-krawler/
 
 This repository is forked from the OPEN-NEXT project and provides a crawler
