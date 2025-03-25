@@ -23,9 +23,10 @@ for inspiration or for alternative implementation directions.
 ### https://github.com/iop-alliance/OpenKnowHow/
 
 This repository is forked from OPEN-NEXT project that initiated this version of
-Open Know How / Library of Open Source Hardware (OKH-LOSH) work.  It contains a
-specification of the Open Know How standard in Linked Open data form.  Note
-that it overrides the first version that was not using linked open data.
+Open Know How / Library of Open Source Hardware (OKH-LOSH).  It contains a
+specification of the Open Know-How standard in [Linked Open Data][LOD] form.
+Note that it now officially deprecates the first version
+which was not using LOD.
 
 ### https://codeberg.org/elevont/open-dataset/
 
@@ -97,3 +98,5 @@ linter.
 
 A prototype federated search engine for OKH projects.  It is based on the OKH
 v1 standard.
+
+[LOD]: https://en.wikipedia.org/wiki/Linked_data#Linked_open_data
