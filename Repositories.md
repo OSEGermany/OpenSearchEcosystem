@@ -109,6 +109,10 @@ This allows for easy consumption of (the changes of) "all" the ontologies out th
 
 The outcome/output of te above repo.
 
+### https://codeberg.org/elevont/rdfoothills
+
+A library for conversion between different RDF serialization formats, using external tools, and for RDF MIME-types.
+
 ## Reference Repositories
 
 ### https://github.com/iop-alliance/okh-search
