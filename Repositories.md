@@ -4,19 +4,24 @@
 
 This document maintains a list of repositories that are used within the
 project.  We make a distinction between three types of repositories:
-**Project repositories** in which the work (mostly) takes place and that can be
-considered part of our project.  Project repositories contain the contributions
-to this project and need a license check, credits, and they should be indicated
-as modules of the project.
 
-The second type consitutes **contributing repositories**: These are
-repositories that this project contributes to, but are not directly targeted by
-this project.  These repos have a more supporting role and the project
-repositories may make use of this category of repositories.
+- **[project repositories]** are where most of the work takes place
+and that can be considered part of our project.
+All the official hand-overs for our NGI-Search project are amongst these,
+and thus they need a license check, credits, and they might indicate
+being partly funded by NGI-Search in their READMEs.
 
-Finally, **reference repositories** are of the third type.  These repositories
-are not necessarily part of the project but are relevant to the project either
-for inspiration or for alternative implementation directions.
+- The second type consitutes **[contributing repositories]**:
+These are repositories that this project contributes to,
+but are not directly targeted by this project.
+These repos have more of a supporting role
+and the [project repositories] may make use of them.
+
+- Finally, **[reference repositories]** are not necessarily part of the project,
+but are relevant to the project either for inspiration
+or for alternative implementation directions.
+
+All projects in all three categories are Open Source licenced.
 
 ## Project Repositories
 
@@ -99,4 +104,8 @@ linter.
 A prototype federated search engine for OKH projects.  It is based on the OKH
 v1 standard.
 
+[Project repositories]: #project-repositories
+[contributing repositories]: #contributing-repositories
+[reference repositories]: #reference-repositories
 [LOD]: https://en.wikipedia.org/wiki/Linked_data#Linked_open_data
+[LOV]: https://lov.linkeddata.es/
