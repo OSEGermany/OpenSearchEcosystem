@@ -53,7 +53,7 @@ An HTTP service that provides the user with up-to-date ontologies in various for
 
 ### https://codeberg.org/elevont/eyeball
 
-An OWL/RDF linter.
+An RDF linter.
 
 ### https://github.com/OSEGermany/okh-scraper/
 
