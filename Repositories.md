@@ -99,6 +99,16 @@ A Java framework for writing Semantic Web applications.  Note that this is our
 own distribution of it that enables RDF 1.0.  It is used in the Eyeball OWL/RDF
 linter.
 
+### https://github.com/elevont/lov-dump-updater
+
+Takes the [LOV] [data dump](https://lov.linkeddata.es/dataset/lov/sparql),
+reformats it, and stores the changes since the last time into a git repo.
+This allows for easy consumption of (the changes of) "all" the ontologies out there.
+
+### https://codeberg.org/elevont/lov-dump
+
+The outcome/output of te above repo.
+
 ## Reference Repositories
 
 ### https://github.com/iop-alliance/okh-search
