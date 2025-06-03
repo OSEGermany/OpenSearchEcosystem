@@ -1,3 +1,5 @@
+> depreciated, the list is now maintained and continued via: https://codeberg.org/OSEGermany/OpenSearchEcosystem
+
 # Repositories
 
 ## Introduction
